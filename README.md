@@ -1,14 +1,13 @@
 # Attribution des sujets Projet Biblio - Alternants Rob 2015/2016
 
 |Attribution|Type|Nom du projet|Remarques|
-|---|---|---|---|
+|---|
 |Kerdoncuff|Biblio|Interception automatique de drônes||
 |Le Texier/Cosson|Bib|Ethique et Robotique(A PRECISER)||
 |Gourlaouen/Lamour|Tech|Modernisation du déplacement de robots dans une chaîne de production||
 |Quere/Lagadec|Tech|Simulation d'un essaim de robot avec MOOS et MOOS-Ivp||
 |Belbeoch/Veillon|Bib|SWARM Robotics(A PRECISER)|outdoor, aérien/terrestre, tracking de cible mouvante, organisation de la mete pour interceptino en milieu encombré (ville)|
-|Le Hay|Tech|Commande avancée pour le robot R2D2|Mise en place d'une commande en vitesse et vitesse angulaire sur le projet R2D2|
-
+|Le Hay|Tech|Commande avancée pour le robot R2D2|Mise en place d'une commande en vitesse et vitesse angulaire sur le proet R2D2|
 
 # Fiches descriptive des projets
 
@@ -35,3 +34,22 @@ Les sujets abordés sont :
  * point 2
   * azerty
   * tyuiop
+
+## Swarms Drones [Bib] [S.Belbeoch/A.Veillon]
+
+1 – Définition de l’état de l’art ,explication générale des drones en essaim: les applications possibles.
+
+2 – Présentation, explication, condition, hypothèses du scénario étudié par la suite.
+
+Scénario: Track et chasse d'un objet volant avec un essaim de drone.
+
+ 2-a Evolution des drones en meute, communication, diffusion information
+
+ 2-b Tracking de la cible
+
+ 2-c Interception
+
+4 - Future de la technologie
+
+
+
