@@ -37,11 +37,13 @@ Les sujets abordés sont :
 
 ## Swarms Drones [Bib] [S.Belbeoch/A.Veillon]
 
+outdoor, aérien/terrestre, tracking de cible mouvante, organisation de la meute pour interception en milieu encombré (ville).
+
 1 – Définition de l’état de l’art ,explication générale des drones en essaim: les applications possibles.
 
 2 – Présentation, explication, condition, hypothèses du scénario étudié par la suite.
 
-Scénario: Track et chasse d'un objet volant avec un essaim de drone.
+Scénario: Track et chasse d'un objet volant avec un essaim de drone.Les coordonnées de la cible sont connues à chaque instant par l'essaim.
 
  2-a Evolution des drones en meute, communication, diffusion information
 
